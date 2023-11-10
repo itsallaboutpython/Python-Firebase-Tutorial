@@ -15,7 +15,8 @@ jupyter notebook
 ### Usage
 Watch the complete YouTube video, to get full info
 
-To get more info, check out my
-Youtube: [Click here](https://www.youtube.com/AllAboutPythob)
-Instagram; [Click here](http://instagram.com/itsallaboutpython)
+To get more info, check out my:
+
+Youtube: [Click here](https://www.youtube.com/AllAboutPython)<br>
+Instagram: [Click here](http://instagram.com/itsallaboutpython)<br>
 Blog-site: [Click here](http://allaboutpython.tech)
