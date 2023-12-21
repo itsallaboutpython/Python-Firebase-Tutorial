@@ -16,6 +16,6 @@ jupyter notebook
 Watch the complete YouTube video, to get full info
 
 To get more info, check out my
-Youtube: [Click here](https://www.youtube.com/AllAboutPythob)
+Youtube: [Click here](https://www.youtube.com/AllAboutPython)
 Instagram; [Click here](http://instagram.com/itsallaboutpython)
 Blog-site: [Click here](http://allaboutpython.tech)
